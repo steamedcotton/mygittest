@@ -1,3 +1,5 @@
 "use strict;"
 
-console.log("Hey");
+var myMessage = "Hey, yo";
+console.log(myMessage);
+
